@@ -2,7 +2,7 @@
   "name": "dk-cdk-test",
   "version": "0.1.0",
   "bin": {
-    "dk-cdk-test": "bin/dk-cdk-test.js"
+    "dk-cdk-test": "bin/my-pipeline.js"
   },
   "scripts": {
     "build": "tsc",
